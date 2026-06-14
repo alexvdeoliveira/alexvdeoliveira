@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Java+Developer;Backend+Enthusiast;AI+Integration+%26+Prompt+Engineering;Always+Learning..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Java+Developer;Backend+Enthusiast;AI+Integration+%26+Prompt+Engineering;Always+Learning..." href="https://github.com/alexvdeoliveira/alexvdeoliveira"/>
 
 </div>
 
