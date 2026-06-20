@@ -1,37 +1,44 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Java+Developer;Backend+Enthusiast;AI+Integration+%26+Prompt+Engineering;Always+Learning..."/>
+▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2800&color=B14EFF&center=true&vCenter=true&width=520&pause=600&lines=conectando...;Java+Developer;Backend+%2F+System+Design;IA+%26+Prompt+Engineering;sinal+est%C3%A1vel."/>
+
+▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓
 
 </div>
 
----
+```
+:: NÓ        → alex.vieira.oliveira
+:: FUNÇÃO    → desenvolvedor Java / backend
+:: TEMPO     → 5+ anos em produção
+:: ORIGEM    → projetos de games (2019) → backend
+:: FOCO      → clean code · design patterns · segurança
+:: PROTOCOLO → IA · LLMs · prompt engineering
+```
 
-## 🧠 About Me
+<div align="center">⬡ ── STACK ── ⬡</div>
 
-🔹 Software developer with 5+ years of experience in Java  
-🔹 Started programming in 2019 with game-related projects  
-🔹 Interested in AI, LLMs, and prompt engineering  
-🔹 Focused on clean code, design patterns, and security  
-🔹 Always exploring new technologies
-
----
-
-## ⚡ Tech Stack
-
+<div align="center">
 <img src="https://skillicons.dev/icons?i=java,python,mysql,redis,html,css,js,git,github,vscode&theme=dark" />
+</div>
 
----
+<div align="center">⬡ ── MÓDULOS ATIVOS ── ⬡</div>
 
-## 📡 Current Interests
+```
+🟣 inteligência artificial
+🟢 backend development
+🔴 software security
+🟡 system design
+⚪ open source
+```
 
-🟣 Artificial Intelligence  
-🟢 Backend Development  
-🔴 Software Security  
-🟡 System Design  
-⚪ Open Source
+<div align="center">⬡ ── CANAL ── ⬡</div>
 
----
+<div align="center">
 
-## ☎️ Connect with Me
+[![Proton Mail](https://img.shields.io/badge/Proton%20Mail-B14EFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:alex.vieira.oliveira@proton.me)
 
-[![Proton Mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:alex.vieira.oliveira@proton.me)
+△▽△▽△▽△▽△▽△▽△▽△▽△▽△▽△▽△▽△▽△▽△▽△▽△▽△▽
+
+</div>
